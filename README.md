@@ -1,5 +1,5 @@
 ### 📃 PortFolio:
-https://smegasberla.github.io
+- https://smegasberla.github.io
 
 ### ✅ Skills:
 - Minecraft plugin development
