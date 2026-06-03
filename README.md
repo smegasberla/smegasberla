@@ -5,5 +5,5 @@
 - Minecraft plugin development
 
 ### ⏳ Learning:
-- C / C++
-- Currently attending **CS50x** Harvard Computer Science Course 🎓
+- Dart/Flutter
+- Attended **CS50x** Harvard Computer Science Course 🎓
