@@ -4,6 +4,6 @@
 ### ✅ Skills:
 - Minecraft plugin development
 
-### ⏳ Learning:
-- Dart/Flutter
+### Other:
+- Prism incoming
 - Attended **CS50x** Harvard Computer Science Course 🎓
