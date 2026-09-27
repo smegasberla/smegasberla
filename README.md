@@ -1,6 +1,6 @@
 # Hi there, I'm smegasberla! 
 
-Self-taught developer passionate about low-level programming, C++, and game systems development.
+Self-taught developer passionate about low-level programming, C++, and systems development.
 
 ---
 
