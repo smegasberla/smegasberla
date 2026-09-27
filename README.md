@@ -23,9 +23,6 @@ Self-taught developer passionate about low-level programming, C++, and game syst
 - 🌌 Upcoming project: **Prism** *(Stay tuned!)*
 
 ---
-
----
-
 <p align="center">
   <i>"Always learning, always building."</i>
 </p>
