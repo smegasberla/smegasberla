@@ -1,4 +1,4 @@
-# Hi there, I'm smegasberla! 👋
+# Hi there, I'm smegasberla! 
 
 Self-taught developer passionate about low-level programming, C++, and game systems development.
 
@@ -23,13 +23,6 @@ Self-taught developer passionate about low-level programming, C++, and game syst
 - 🌌 Upcoming project: **Prism** *(Stay tuned!)*
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smegasberla&show_icons=true&theme=dark" alt="smegasberla's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smegasberla&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
