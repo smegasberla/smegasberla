@@ -9,7 +9,7 @@ Self-taught developer passionate about low-level programming, C++, and systems d
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-# ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[//]: # [Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - **Languages & Frameworks:** C++17/20, Kotlin
 - **Specializations:** Systems Programming, Minecraft Plugin Development (Spigot/Paper) (Learning both)
