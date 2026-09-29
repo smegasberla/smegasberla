@@ -11,7 +11,7 @@ Self-taught developer passionate about low-level programming, C++, and systems d
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - **Languages & Frameworks:** C++17/20, Kotlin
-- **Specializations:** Systems Programming, Minecraft Plugin Development (Spigot/Paper) (Learning both)
+- **Specializations:** Systems Programming (Learning)
 - **Computer Science:** Attended Harvard's **CS50x** 🎓
 
 ---
