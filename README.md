@@ -10,8 +10,8 @@ Self-taught developer passionate about low-level programming, C++, and systems d
 ![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- **Languages & Frameworks:** C++17/20, Kotlin
-- **Specializations:** Systems Programming (Learning)
+- **Languages & Frameworks:** C++
+- **Specializations:** Systems Programming (Learning), Dev Tools
 - **Computer Science:** Attended Harvard's **CS50x** 🎓
 
 ---
@@ -19,7 +19,12 @@ Self-taught developer passionate about low-level programming, C++, and systems d
 ### 🚀 What I'm Working On
 
 - 🔨 Developing system tools and utilities in C++
+- 🍃 ripgit. Git rewritten in C++: https://github.com/smegasberla/ripgit
 - 🌌 Upcoming project: **Prism** *(Stay tuned!)*
+
+### 💼 What i shipped
+
+- sync. A small but functional file syncing tool: https://github.com/smegasberla/sync
 
 ---
 <p align="center">
