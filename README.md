@@ -24,7 +24,7 @@ Self-taught developer passionate about low-level programming, C++, and systems d
 
 ### 💼 What i shipped
 
-- sync. A small but functional file syncing tool: https://github.com/smegasberla/sync
+- fsync. A small but functional file syncing tool: https://github.com/smegasberla/sync
 
 ---
 <p align="center">
