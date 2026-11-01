@@ -18,7 +18,6 @@ Self-taught developer passionate about low-level programming, C++, and systems d
 ### 🚀 What I'm Working On
 
 - 🔨 Developing system tools and utilities in C++
-- 🍃 ripgit. Git rewritten in C++: https://github.com/smegasberla/ripgit
 - 🌌 Upcoming project: **Prism** *(Stay tuned!)*
 
 ### 💼 What i shipped
